@@ -90,7 +90,6 @@ Sales-Prediction-Using-Python/
 │── README.md
 ```
 ```
-
-## 👩‍💻 Author
-**Nagapuri Akhila** 
+##  Author
+**Nagapuri Akhila**
 Aspiring Data Analyst

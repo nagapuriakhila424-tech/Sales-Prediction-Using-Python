@@ -80,16 +80,6 @@ The model is evaluated using:
 4. Open the Jupyter Notebook.
 5. Run all cells to train the model and generate predictions.
 
-
-## 📁 Project Structure
-
-```
-Sales-Prediction-Using-Python/
-│── Sales_Prediction_Using_Python.ipynb
-│── advertising.csv
-│── README.md
-```
-```
 ## 👩‍💻 Author
 **Akhila Nagapuri**
 Aspiring Data Analyst | Python | SQL | Data Analytics

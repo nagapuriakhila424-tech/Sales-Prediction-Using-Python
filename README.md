@@ -72,24 +72,25 @@ The model is evaluated using:
 
 1. Clone the repository.
 2. Install the required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
-   ```
-3. Open the Jupyter Notebook.
-4. Run all cells to train the model and generate predictions.
+       - Pandas
+       - Numpy
+       - Matplotlib
+       - Seaborn
+       - Scikit-learn
+4. Open the Jupyter Notebook.
+5. Run all cells to train the model and generate predictions.
 
 
 ## 📁 Project Structure
 
-
+```
 Sales-Prediction-Using-Python/
 │── Sales_Prediction_Using_Python.ipynb
 │── advertising.csv
 │── README.md
 ```
-
+```
 
 ## 👩‍💻 Author
-
-**Nagapuri Akhila**   
+**Nagapuri Akhila** 
 Aspiring Data Analyst
